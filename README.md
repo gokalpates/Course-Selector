@@ -13,6 +13,6 @@ Any individual that wants to run script must;
 1. Install Python, Firefox Browser and Selenium packet.
 2. Enter her/his credentials to credentials.txt.
 3. Modify coursenamelist and courseclasslist for desired courses.
-4. Run script and enter captcha when it is asked for.
+4. Run script as administrator and enter captcha when it is asked for.
 
 Script will try to register courses mentioned in coursenamelist and courseclasslist. Propably faster than any organic being.
