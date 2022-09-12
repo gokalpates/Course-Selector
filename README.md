@@ -1,5 +1,5 @@
 # Course-Selector
-Selenium course selector bot to automate course registration.
+Selenium course selector script to automate course registration.
 
 ## Project's Motivation
 Course registration in college can be daunting at first initial moments because lots of people try to get courses with limited capacity.
