@@ -1,7 +1,7 @@
 # Course-Selector
 Selenium course selector script to automate course registration.
 
-## Project's Motivation
+## Project's motivation
 Course registration in college can be daunting at first initial moments because lots of people try to get courses with limited capacity.
 To get desired courses, you need to be fast and ready. Failed course registration can result as bad course schedule or selection of undesirable courses.
 In order to eliminate the things mentioned above, I wrote Python Course Registration Script with Selenium browser automation packet.
